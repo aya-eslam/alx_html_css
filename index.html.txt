@@ -43,3 +43,20 @@
         <!-- Add more video items as needed -->
     </ul>
 </section>
+<section class="membership-section">
+    <h2>انضم إلى عضوية النادي اليوم</h2>
+    <div class="membership-details">
+        <div class="membership-type">
+            <h3>عضوية سنوية</h3>
+            <p>احصل على كافة الامتيازات لمدة سنة كاملة</p>
+            <span class="price">500 جنيه</span>
+            <a href="#" class="btn">اشترك الآن</a>
+        </div>
+        <div class="membership-type">
+            <h3>عضوية شهرية</h3>
+            <p>احصل على كافة الامتيازات لمدة شهر واحد</p>
+            <span class="price">50 جنيه</span>
+            <a href="#" class="btn">اشترك الآن</a>
+        </div>
+    </div>
+</section>
