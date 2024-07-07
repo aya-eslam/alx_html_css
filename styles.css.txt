@@ -613,3 +613,42 @@ header nav ul li a:hover {
     margin-top: 20px;
     font-size: 14px;
 }
+/* 6-styles.css */
+
+/* Include styles from previous tasks */
+
+.pentagons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+
+.pentagon {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #3498db; /* Adjust color as needed */
+    clip-path: polygon(
+        50% 0%,
+        100% 38%,
+        82% 100%,
+        18% 100%,
+        0% 38%
+    );
+}
+
+.pentagon:nth-child(2) {
+    transform: rotate(72deg);
+}
+
+.pentagon:nth-child(3) {
+    transform: rotate(144deg);
+}
+
+.pentagon:nth-child(4) {
+    transform: rotate(216deg);
+}
+
+.pentagon:nth-child(5) {
+    transform: rotate(288deg);
+}
