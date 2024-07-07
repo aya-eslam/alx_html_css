@@ -103,3 +103,48 @@ aside h2 {
     margin-top: 10px;
     color: #666;
 }
+.videos-section {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.videos-section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.videos-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.videos-list li {
+    text-align: center;
+    width: 250px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.videos-list li img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.videos-list li h3 {
+    font-size: 18px;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.videos-list li p {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #666;
+}

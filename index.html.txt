@@ -27,3 +27,19 @@
         <cite>- John Doe</cite>
     </div>
 </section>
+<section class="videos-section">
+    <h2>أحدث الفيديوهات</h2>
+    <ul class="videos-list">
+        <li>
+            <img src="path/to/video-thumbnail.jpg" alt="Video Thumbnail">
+            <h3>عنوان الفيديو الأول</h3>
+            <p>وصف قصير للفيديو الأول</p>
+        </li>
+        <li>
+            <img src="path/to/video-thumbnail.jpg" alt="Video Thumbnail">
+            <h3>عنوان الفيديو الثاني</h3>
+            <p>وصف قصير للفيديو الثاني</p>
+        </li>
+        <!-- Add more video items as needed -->
+    </ul>
+</section>
