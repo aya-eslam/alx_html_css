@@ -139,3 +139,34 @@
             border-radius: 8px;
             font-size: 16px;
             يمّ Plugin Boutique الم let you was
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headphones Website</title>
+    <link rel="stylesheet" href="0-styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1>Headphones</h1>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="hero">
+            <div class="container">
+                <h2>Welcome to Headphones</h2>
+                <p>Discover our premium headphones collection.</p>
+                <a href="#" class="btn">Shop Now</a>
+            </div>
+        </div>
+    </header>
+</body>
+</html>
