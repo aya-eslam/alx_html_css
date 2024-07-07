@@ -93,3 +93,29 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عنوان الصفحة</title>
+    <link rel="stylesheet" href="css_advanced/styles.css">
+</head>
+<body>
+    <!-- محتوى الصفحة -->
+    
+    <section class="faq-section">
+        <div class="faq-item">
+            <h2 class="faq-question">ما هو السؤال الشائع؟</h2>
+            <p class="faq-answer">هنا إجابة على السؤال الشائع.</p>
+        </div>
+        
+        <div class="faq-item">
+            <h2 class="faq-question">ما هو السؤال الآخر؟</h2>
+            <p class="faq-answer">هنا إجابة على السؤال الآخر.</p>
+        </div>
+        
+        <!-- يمكنك إضافة مزيد من الأسئلة والإجابات هنا -->
+    </section>
+</body>
+</html>
