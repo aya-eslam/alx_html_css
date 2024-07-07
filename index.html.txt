@@ -170,3 +170,43 @@
     </header>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headphones Website</title>
+    <link rel="stylesheet" href="1-styles.css">
+</head>
+<body>
+    <header>
+        <!-- Header content from previous task -->
+    </header>
+
+    <section class="what-we-do">
+        <div class="container">
+            <h2>What we do...</h2>
+            <div class="services">
+                <div class="service">
+                    <span class="icon icon-headphones"></span>
+                    <h3>Quality Headphones</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div class="service">
+                    <span class="icon icon-microphone"></span>
+                    <h3>Clear Sound</h3>
+                    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+                <div class="service">
+                    <span class="icon icon-music"></span>
+                    <h3>Rich Audio</h3>
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Other sections and footer will go here -->
+
+</body>
+</html>
