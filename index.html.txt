@@ -21,3 +21,9 @@
         <!-- Add more content as needed -->
     </aside>
 </main>
+<section class="quote-section">
+    <div class="quote">
+        <p>"This is a sample quote. Feel free to add your own inspiring words here."</p>
+        <cite>- John Doe</cite>
+    </div>
+</section>
