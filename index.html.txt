@@ -7,7 +7,10 @@
             <li><a href="#">Services</a></li>
             <li><a href="#">Contact</a></li>
         </ul>
+   
     </nav>
+    <link rel="stylesheet" href="css_advanced/styles.css">
+
 </header>
 <main>
     <article>
@@ -74,3 +77,19 @@
         <!-- Add more FAQ items as needed -->
     </div>
 </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عنوان الصفحة</title>
+    <link rel="stylesheet" href="css_advanced/styles.css">
+</head>
+<body>
+    <!-- محتوى الصفحة -->
+    
+    <footer>
+        <!-- محتوى footer هنا -->
+    </footer>
+</body>
+</html>
