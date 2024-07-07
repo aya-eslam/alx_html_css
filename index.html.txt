@@ -230,3 +230,49 @@
     <section class="our-results">
         <div class="container">
             <h2>Our Resu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headphones Website</title>
+    <link rel="stylesheet" href="3-styles.css">
+</head>
+<body>
+    <header>
+        <!-- Header content from previous tasks -->
+    </header>
+
+    <section class="what-we-do">
+        <!-- "What we do..." section content from previous tasks -->
+    </section>
+
+    <section class="our-results">
+        <!-- "Our results" section content from previous tasks -->
+    </section>
+
+    <section class="contact-us">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form class="contact-form">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Enter your name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" placeholder="Enter your message" rows="5" required></textarea>
+                </div>
+                <button type="submit" class="btn">Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Other sections and footer will go here -->
+
+</body>
+</html>
