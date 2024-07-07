@@ -276,3 +276,60 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headphones Website</title>
+    <link rel="stylesheet" href="4-styles.css">
+</head>
+<body>
+    <header>
+        <!-- Header content from previous tasks -->
+    </header>
+
+    <section class="what-we-do">
+        <!-- "What we do..." section content from previous tasks -->
+    </section>
+
+    <section class="our-results">
+        <!-- "Our results" section content from previous tasks -->
+    </section>
+
+    <section class="contact-us">
+        <!-- "Contact Us" section content from previous tasks -->
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col">
+                    <h3>About Us</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div class="footer-col">
+                    <h3>Contact Info</h3>
+                    <ul>
+                        <li>Email: info@example.com</li>
+                        <li>Phone: +123456789</li>
+                        <li>Address: 123 Street, City, Country</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li><a href="#">Facebook</a></li>
+                        <li><a href="#">Twitter</a></li>
+                        <li><a href="#">Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                &copy; 2024 Headphones. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
