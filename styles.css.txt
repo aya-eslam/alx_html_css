@@ -206,3 +206,38 @@ aside h2 {
 .membership-type .btn:hover {
     background-color: #45a049;
 }
+.faq-section {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.faq-section h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.faq-list {
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+}
+
+.faq-item {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.faq-item h3 {
+    font-size: 18px;
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #666;
+}
