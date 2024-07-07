@@ -210,3 +210,23 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headphones Website</title>
+    <link rel="stylesheet" href="2-styles.css">
+</head>
+<body>
+    <header>
+        <!-- Header content from previous task -->
+    </header>
+
+    <section class="what-we-do">
+        <!-- "What we do..." section content from previous task -->
+    </section>
+
+    <section class="our-results">
+        <div class="container">
+            <h2>Our Resu

@@ -435,3 +435,57 @@ header nav ul li a:hover {
     font-weight: normal;
     font-style: normal;
 }
+/* 2-styles.css */
+
+/* Include styles from previous tasks */
+
+.our-results {
+    background-color: #fff;
+    padding: 60px 0;
+}
+
+.our-results h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.results {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.result {
+    text-align: center;
+    width: calc(33.33% - 40px);
+    margin-bottom: 40px;
+}
+
+.result .icon {
+    font-family: 'HolbertonIcons';
+    font-size: 48px;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.icon-star:before {
+    content: "\e903"; /* Replace with appropriate icon code */
+}
+
+.icon-chart:before {
+    content: "\e904"; /* Replace with appropriate icon code */
+}
+
+.icon-trophy:before {
+    content: "\e905"; /* Replace with appropriate icon code */
+}
+
+.result h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.result p {
+    font-size: 16px;
+    color: #666;
+}
