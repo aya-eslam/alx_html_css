@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Advanced CSS Project</title>
+</head>
+<body class="works_on_smartphone">
+    <header>
+        <span class="logo">&#10036;</span>
+        <nav>
+            <!-- Add navigation items here -->
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>Welcome to the Advanced CSS Project</h1>
+            <p>This is a sample paragraph for the article section. Feel free to add more content here.</p>
+            <!-- Add more content as needed -->
+        </article>
+        <aside>
+            <h2>Sidebar Content</h2>
+            <p>This is a sample paragraph for the sidebar. You can add more widgets or content here.</p>
+            <!-- Add more content as needed -->
+        </aside>
+    </main>
+    <footer>
+        <p>&copy; 2024 Advanced CSS Project. All rights reserved.</p>
+    </footer>
+</body>
+</html>
