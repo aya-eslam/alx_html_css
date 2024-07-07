@@ -652,3 +652,25 @@ header nav ul li a:hover {
 .pentagon:nth-child(5) {
     transform: rotate(288deg);
 }
+/* 7-styles.css */
+
+/* Include styles from previous tasks */
+
+/* Animate items in "What we do..." section */
+.what-we-do .card {
+    transition: transform 0.3s ease;
+}
+
+.what-we-do .card:hover {
+    transform: scale(1.1);
+}
+
+/* Animate items in "Our results" section */
+.our-results .result {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.our-results .result:hover {
+    transform: rotate(5deg);
+    opacity: 0.8;
+}

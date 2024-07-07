@@ -389,3 +389,67 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headphones Website</title>
+    <link rel="stylesheet" href="7-styles.css">
+</head>
+<body>
+    <header>
+        <!-- Header content from previous tasks -->
+    </header>
+
+    <section class="what-we-do">
+        <div class="container">
+            <h2>What we do...</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>Design</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div class="card">
+                    <h3>Develop</h3>
+                    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+                <div class="card">
+                    <h3>Deploy</h3>
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="our-results">
+        <div class="container">
+            <h2>Our Results</h2>
+            <div class="results">
+                <div class="result">
+                    <span class="icon icon-star"></span>
+                    <h3>Customer Satisfaction</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div class="result">
+                    <span class="icon icon-chart"></span>
+                    <h3>Market Growth</h3>
+                    <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+                <div class="result">
+                    <span class="icon icon-trophy"></span>
+                    <h3>Awards Received</h3>
+                    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <!-- Footer content from previous tasks -->
+        </div>
+    </footer>
+
+</body>
+</html>
